@@ -1,0 +1,121 @@
+<style>
+title{
+	align-center;
+}
+
+#back{
+	background-size: auto;
+	background: url(simon-zhu-1002610-unsplash.jpg);
+	background-repeat: no-repeat;
+	background-size: 1300px 590px;
+	background-position: center
+	background-color:red;
+}
+
+#sect{
+	color: red;
+}
+	
+h1{
+	font-size: 80px;
+	color:white;
+	text-indent: 0px;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	background: black;
+}
+
+h3{
+	font-size: 30px;
+	color:white;
+	text-align: center;
+	text-indent: 0px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#padding{
+	padding-top: 250px;
+	padding-bottom: 250px;
+	padding-right: 250px;
+	padding-left: 250px;
+}
+
+body{
+	background-color: "white";
+	background-image: url(simon-zhu-1002610-unsplash.jpg);
+	background-size:;
+}
+
+.right{
+	position: absolute;
+    right: 300px;
+    width: 300px;
+    padding: 10px;
+    background-color: white;
+}
+
+#placeholder{
+	text-indent: 300px
+}
+#placeholder1{
+	text-indent: 300px
+}
+#placeholder2{
+	text-indent: 300px
+}
+#placeholder3{
+	text-indent: 300px
+}
+
+#third{
+	background: url(joshua-fuller-1001050-unsplash.jpg);
+	background-repeat: no-repeat;
+	height:675px;
+	width:1300px;
+	background-position: center;
+	background-size: cover;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.left{
+  float:left;
+}
+.right{
+    float:right;
+}
+
+h4{
+	color:black;
+	font-size: 50px;
+	text-align: center;
+	background-color: lightblue;
+
+}
+
+p{
+	color:black;
+	font-size: 30px;
+	text-align: center;
+	background-color: lightblue	
+}
+#title{
+	color:black;
+	font-size: 40px;
+	text-align: center;
+	background-color: lightblue	
+	font-weight: bold;
+}
+</style>
